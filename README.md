@@ -1,7 +1,3 @@
-# Sistema de Gestión de Inventario
-
-Este proyecto es un sistema de gestión de inventario desarrollado con Next.js, React y TypeScript, que permite a los usuarios administrar productos de manera eficiente.
-
 ## Características
 
 - Agregar nuevos productos con validación de formularios
@@ -20,8 +16,8 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/Carlos170702/test-conteo.git
+   cd test-conteo
    ```
 
 2. Instala las dependencias:
